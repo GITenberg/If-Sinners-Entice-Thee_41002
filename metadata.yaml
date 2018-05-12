@@ -1,0 +1,40 @@
+_repo: If-Sinners-Entice-Thee_41002
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Piffard, Harold
+    deathdate: 1938
+    gutenberg_agent_id: '9844'
+    url: http://www.gutenberg.org/2009/agents/9844
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Queux, William
+    aliases:
+    - Queux, William Tufnell Le
+    - Queux, William Le
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '3141'
+    url: http://www.gutenberg.org/2009/agents/3141
+    wikipedia: http://en.wikipedia.org/wiki/William_Le_Queux
+description: ''
+gutenberg_issued: '2012-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41002'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Extortion -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Gamblers -- Fiction'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Murder -- Fiction'
+- !lcsh 'Monte-Carlo (Monaco) -- Fiction'
+title: If Sinners Entice Thee
+url: http://www.gutenberg.org/ebooks/41002
